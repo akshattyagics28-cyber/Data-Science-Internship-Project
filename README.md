@@ -1,17 +1,18 @@
-# Exploratory Data Analysis (EDA) Project
+# Real-world Data Project: Retail Sales
 
-A beginner-friendly college EDA project using a Titanic passenger dataset.
+A college-level end-to-end data project that analyzes retail sales and predicts order sales.
 
-## Files
-- `Exploratory_Data_Analysis_Titanic.ipynb` — complete EDA notebook
-- `dataset/titanic_eda_sample.csv` — source data
+## Included Files
+- `Retail_Sales_Analysis_and_Prediction.ipynb` — full notebook
+- `dataset/retail_sales_data.csv` — raw sample data
+- `dataset/cleaned_retail_sales_data.csv` — cleaned data
 - `visualizations/` — exported charts
-- `EDA_Report.md` — concise structured findings
-- `requirements.txt` — Python packages
+- `Retail_Sales_Report.md` — structured findings
+- `requirements.txt` — library list
 
-## Run
-1. Install packages: `pip install -r requirements.txt`
-2. Start Jupyter: `jupyter notebook`
-3. Open the notebook and select **Restart & Run All**.
+## How to Run
+1. Install packages using `pip install -r requirements.txt`.
+2. Run `jupyter notebook`.
+3. Open the notebook and choose **Restart & Run All**.
 
-The included CSV is a Titanic-style educational sample because no dataset was supplied with the assignment.
+No source dataset was provided, so the included CSV is a clearly labelled, realistic retail-sales educational sample.
